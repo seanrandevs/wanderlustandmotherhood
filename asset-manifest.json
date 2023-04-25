@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wanderlustandmotherhood/static/css/main.2d5a9371.css",
-    "main.js": "/wanderlustandmotherhood/static/js/main.ad48389b.js",
+    "main.js": "/wanderlustandmotherhood/static/js/main.60b10e3d.js",
     "static/js/787.0710836e.chunk.js": "/wanderlustandmotherhood/static/js/787.0710836e.chunk.js",
     "static/media/mountdemo2.jpg": "/wanderlustandmotherhood/static/media/mountdemo2.b2f5e9acaea28f1ba11b.jpg",
     "static/media/cookiejar.jpg": "/wanderlustandmotherhood/static/media/cookiejar.8ccf3a06b84fb0abbf3e.jpg",
@@ -22,11 +22,11 @@
     "static/media/revicons.woff": "/wanderlustandmotherhood/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/wanderlustandmotherhood/index.html",
     "main.2d5a9371.css.map": "/wanderlustandmotherhood/static/css/main.2d5a9371.css.map",
-    "main.ad48389b.js.map": "/wanderlustandmotherhood/static/js/main.ad48389b.js.map",
+    "main.60b10e3d.js.map": "/wanderlustandmotherhood/static/js/main.60b10e3d.js.map",
     "787.0710836e.chunk.js.map": "/wanderlustandmotherhood/static/js/787.0710836e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d5a9371.css",
-    "static/js/main.ad48389b.js"
+    "static/js/main.60b10e3d.js"
   ]
 }
