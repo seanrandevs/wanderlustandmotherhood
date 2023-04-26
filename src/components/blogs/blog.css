@@ -27,3 +27,8 @@ h5 {
     line-height: 3;
     max-width: 1200px;
 }
+@media(max-width: 767px) {
+    .blog .title {
+        font-size: 2.5rem;
+    }
+}

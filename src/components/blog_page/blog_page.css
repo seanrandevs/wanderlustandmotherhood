@@ -61,6 +61,7 @@
     .card {
         width: 375px;
         height: 425px;
+        margin-bottom: 150px;
      }
      .card img {
         width: 375px;
