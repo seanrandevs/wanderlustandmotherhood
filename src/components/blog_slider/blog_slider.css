@@ -45,9 +45,12 @@ h2 {
     color: #000000;
     font-size: 1.8rem;
 }
-@media(max-width: 1024px) {
+@media(max-width: 1210px) {
     .slider {
         padding: 0;        
+    }
+    .react-multi-carousel-item {
+        margin-right: 0.5rem;
     }
     .slider .card h5 {
         padding: 1rem 0;
@@ -57,3 +60,8 @@ h2 {
         padding-bottom: 0.5rem;
     }
 }
+/* @media(max-width: 850px) {
+    .react-multi-carousel-item {
+        margin-right: 0.5rem;
+    }
+} */
