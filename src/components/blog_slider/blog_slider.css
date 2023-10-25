@@ -60,8 +60,11 @@ h2 {
         padding-bottom: 0.5rem;
     }
 }
-@media(max-width: 825px) {
+@media(min-width: 768px) {
+    .slider {
+        margin: 0 0.5rem;
+    }
     .react-multi-carousel-item {
-        margin-right: 1.5rem;
+        margin-right: 2.5rem;
     }
 }
